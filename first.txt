@@ -7,3 +7,5 @@ Blue
 4th color of rainbow is Green
 5th color is Yellow
 6th color is Orange
+7th color is red
+
