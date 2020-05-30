@@ -1,5 +1,8 @@
 This is the first file of this repo. 
 Adding Rainbow to the first file. 
 Colors of the rainbows are :
+-Violet
+Indigo
+Blue
 4th color of rainbow is Green
 5th color is Yellow
