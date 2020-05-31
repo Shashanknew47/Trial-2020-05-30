@@ -9,3 +9,4 @@ Blue
 6th color is Orange
 7th color is red
 India's flag is having 3 colors
+First Color is Orange
