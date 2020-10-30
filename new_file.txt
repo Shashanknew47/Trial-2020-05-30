@@ -1,4 +1,5 @@
   Additional file in feature1 branch
+<<<<<<< HEAD
 
-  this file was modified locally. 
+  this file was modified mannually to resolve conflicts.
   
